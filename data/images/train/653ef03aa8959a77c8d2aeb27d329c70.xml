@@ -1,0 +1,55 @@
+<annotation>
+  <folder></folder>
+  <filename>653ef03aa8959a77c8d2aeb27d329c70.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1000</width>
+    <height>1000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>White Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>4.91</ymin>
+      <xmax>479.82</xmax>
+      <ymax>521.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>White Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>578.03</xmin>
+      <ymin>434.85</ymin>
+      <xmax>908.33</xmax>
+      <ymax>937.88</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>White Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>159.09</xmin>
+      <ymin>648.73</ymin>
+      <xmax>573.64</xmax>
+      <ymax>883.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>White Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>431.06</xmin>
+      <ymin>192.42</ymin>
+      <xmax>993.1799999999998</xmax>
+      <ymax>625.76</ymax>
+    </bndbox>
+  </object>
+</annotation>

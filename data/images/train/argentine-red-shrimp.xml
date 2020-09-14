@@ -1,0 +1,25 @@
+<annotation>
+  <folder></folder>
+  <filename>argentine-red-shrimp.png</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>500</width>
+    <height>244</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Red Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>1.51</xmin>
+      <ymin>26.48</ymin>
+      <xmax>497.99</xmax>
+      <ymax>233.1</ymax>
+    </bndbox>
+  </object>
+</annotation>

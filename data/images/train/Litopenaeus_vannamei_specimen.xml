@@ -1,0 +1,35 @@
+<annotation>
+  <folder>Litopenaeus</folder>
+  <filename>Litopenaeus_vannamei_specimen.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1092</width>
+    <height>740</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>White Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>21.43</xmin>
+      <ymin>428.3</ymin>
+      <xmax>1085.42</xmax>
+      <ymax>731.83</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>White Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>80.14</xmin>
+      <ymin>186.09</ymin>
+      <xmax>1090.35</xmax>
+      <ymax>424.91</ymax>
+    </bndbox>
+  </object>
+</annotation>

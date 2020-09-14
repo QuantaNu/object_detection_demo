@@ -1,0 +1,35 @@
+<annotation>
+  <folder></folder>
+  <filename>93770157-raw-red-prawns.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1300</width>
+    <height>866</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Red Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>571.9</xmin>
+      <ymin>463.12</ymin>
+      <xmax>1155.79</xmax>
+      <ymax>754.4</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Red Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>339.65</xmin>
+      <ymin>1.26</ymin>
+      <xmax>993.09</xmax>
+      <ymax>330.6</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+  <folder></folder>
+  <filename>carabineros.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>807</width>
+    <height>453</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Red Prawn</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>43.82</xmin>
+      <ymin>116.17</ymin>
+      <xmax>720.24</xmax>
+      <ymax>327.85</ymax>
+    </bndbox>
+  </object>
+</annotation>
